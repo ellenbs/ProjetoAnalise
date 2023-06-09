@@ -1,0 +1,126 @@
+A URL http://www.unb.br/ está hospedada no servidor com o endereço IP: 164.41.102.70
+A URL http://www.udf.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: [Errno -2] Name or service not known
+A URL http://www.ueg.br/ está hospedada no servidor com o endereço IP: 45.183.244.105
+A URL http://www.ucg.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPConnectionPool(host='www.ucg.br', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f65e2a4f220>, 'Connection to www.ucg.br timed out. (connect timeout=5)'))
+A URL http://www.ufg.br/ está hospedada no servidor com o endereço IP: 200.137.218.130
+A URL http://www.ifg.edu.br/ está hospedada no servidor com o endereço IP: 200.17.56.16
+A URL http://www.ufms.br/ está hospedada no servidor com o endereço IP: 200.129.192.19
+A URL http://www.ufgd.edu.br/ está hospedada no servidor com o endereço IP: 200.129.209.136
+A URL http://www.ufmt.br/ está hospedada no servidor com o endereço IP: 200.17.60.5
+A URL http://www.novoportal.unemat.br/ está hospedada no servidor com o endereço IP: 152.67.35.171
+A URL http://www.ufal.br/ está hospedada no servidor com o endereço IP: 200.17.114.39
+A URL http://www.uneal.edu.br/ está hospedada no servidor com o endereço IP: 186.249.51.27
+A URL http://www.ufba.br/ está hospedada no servidor com o endereço IP: 200.128.56.18
+A URL http://www.uneb.br/ está hospedada no servidor com o endereço IP: 200.128.3.15
+A URL http://www.portal.ifba.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPSConnectionPool(host='www.portal.ifba.edu.br', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'www.portal.ifba.edu.br' doesn't match either of '*.ifba.edu.br', 'ifba.edu.br'")))
+A URL http://www.ufob.edu.br/ está hospedada no servidor com o endereço IP: 54.233.106.196
+A URL http://www.fainor.com.br/ está hospedada no servidor com o endereço IP: 34.69.15.206
+A URL http://www.uece.br/ está hospedada no servidor com o endereço IP: 200.129.22.158
+A URL http://www.ufc.br/ está hospedada no servidor com o endereço IP: 200.17.41.185
+A URL http://www.ifce.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPSConnectionPool(host='ifce.edu.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+A URL http://www.ufca.edu.br/portal/ está hospedada no servidor com o endereço IP: 200.129.12.115
+A URL http://www.ufma.br/ está hospedada no servidor com o endereço IP: 200.137.132.187
+A URL http://portal.ifma.edu.br/ está hospedada no servidor com o endereço IP: 172.67.174.83
+A URL http://www.ufpb.br/ está hospedada no servidor com o endereço IP: 150.165.254.52
+A URL http://www.ufcg.edu.br/ está hospedada no servidor com o endereço IP: 150.165.111.12
+A URL http://www.ifpb.edu.br/ está hospedada no servidor com o endereço IP: 200.129.77.237
+A URL http://www.ufpe.br/ está hospedada no servidor com o endereço IP: 150.161.6.84
+A URL http://www.ufrpe.br/ está hospedada no servidor com o endereço IP: 200.17.137.52
+A URL http://www.unicap.br/home/ está hospedada no servidor com o endereço IP: 200.249.25.5
+A URL http://www.ufrn.br/ está hospedada no servidor com o endereço IP: 177.20.144.66
+A URL http://www2.ufersa.edu.br/portal/ está hospedada no servidor com o endereço IP: 119.8.229.155
+A URL http://www.ufs.br/ está hospedada no servidor com o endereço IP: 200.17.141.14
+A URL http://www.ufpi.br/ está hospedada no servidor com o endereço IP: 200.137.162.127
+A URL http://portal.ufam.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPConnectionPool(host='portal.ufam.edu.br', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f65e28bc1c0>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+A URL http://www.ufpa.br/ não pôde ser resolvida para um endereço IP
+Erro: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+A URL http://ufrr.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPSConnectionPool(host='ufrr.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+A URL http://www.ufac.br/ está hospedada no servidor com o endereço IP: 200.129.173.47
+A URL http://www.unama.br/ está hospedada no servidor com o endereço IP: 179.184.214.201
+A URL http://www.uft.edu.br/ está hospedada no servidor com o endereço IP: 200.129.179.7
+A URL http://www.portal.ufra.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPSConnectionPool(host='aaredirect.ufra.edu.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+A URL http://www.unifap.br/ está hospedada no servidor com o endereço IP: 200.139.21.71
+A URL http://www.ufes.br/ está hospedada no servidor com o endereço IP: 200.137.65.4
+A URL http://www.unifei.edu.br/ está hospedada no servidor com o endereço IP: 200.131.128.51
+A URL http://www.ufla.br/ está hospedada no servidor com o endereço IP: 200.131.250.18
+A URL http://www.uftm.edu.br/ está hospedada no servidor com o endereço IP: 200.131.62.17
+A URL http://www.ufvjm.edu.br/ está hospedada no servidor com o endereço IP: 200.131.252.165
+A URL http://www.pucminas.br/ está hospedada no servidor com o endereço IP: 200.229.32.29
+A URL http://www.ufjf.br/ está hospedada no servidor com o endereço IP: 200.131.19.78
+A URL http://www.ufmg.br/ está hospedada no servidor com o endereço IP: 150.164.250.1
+A URL http://www.ufop.br/ está hospedada no servidor com o endereço IP: 200.239.128.199
+A URL http://www.ufv.br/ está hospedada no servidor com o endereço IP: 200.235.168.227
+A URL http://www.inatel.br/ está hospedada no servidor com o endereço IP: 131.221.240.56
+A URL http://www.ufsj.edu.br/ está hospedada no servidor com o endereço IP: 200.17.67.239
+A URL http://www.ufu.br/ está hospedada no servidor com o endereço IP: 200.19.145.55
+A URL http://www.cefetmg.br/ está hospedada no servidor com o endereço IP: 200.131.38.57
+A URL http://www.metodistademinas.edu.br/novo/institucional.php está hospedada no servidor com o endereço IP: 187.45.195.60
+A URL http://www.iftm.edu.br/ está hospedada no servidor com o endereço IP: 200.131.127.2
+A URL http://www.cefet-rj.br/ está hospedada no servidor com o endereço IP: 200.9.149.88
+A URL http://www.puc-rio.br/ está hospedada no servidor com o endereço IP: 139.82.30.201
+A URL http://www.ucp.br/ está hospedada no servidor com o endereço IP: 185.211.7.112
+A URL http://www.uff.br/ está hospedada no servidor com o endereço IP: 200.20.0.21
+A URL http://www.ufrj.br/ não pôde ser resolvida para um endereço IP
+Erro: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+A URL http://www.ufrrj.br/ está hospedada no servidor com o endereço IP: 200.11.2.21
+A URL http://www.unirio.br/ está hospedada no servidor com o endereço IP: 200.156.24.171
+A URL http://www.uerj.br/ está hospedada no servidor com o endereço IP: 152.92.1.117
+A URL http://www.epm.br/ está hospedada no servidor com o endereço IP: 200.144.93.58
+A URL http://www.fesp.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPConnectionPool(host='www.fesp.br', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f65e2a4ef50>: Failed to establish a new connection: [Errno -2] Name or service not known'))
+A URL http://www.metodista.br/ está hospedada no servidor com o endereço IP: 177.135.166.190
+A URL http://www.pucsp.br/ está hospedada no servidor com o endereço IP: 200.144.145.195
+A URL http://www.puccamp.br/ está hospedada no servidor com o endereço IP: 23.219.67.5
+A URL http://www.ufscar.br/ está hospedada no servidor com o endereço IP: 200.136.207.122
+A URL http://www.scamilo.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPConnectionPool(host='www.scamilo.edu.br', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f65e2a4f5e0>, 'Connection to www.scamilo.edu.br timed out. (connect timeout=5)'))
+A URL http://www.unesp.br/ está hospedada no servidor com o endereço IP: 200.145.6.98
+A URL http://www.unicamp.br/ está hospedada no servidor com o endereço IP: 143.106.143.186
+A URL http://www.unimep.br/ está hospedada no servidor com o endereço IP: 152.70.213.160
+A URL http://www.usp.br/ está hospedada no servidor com o endereço IP: 200.144.248.54
+A URL http://www.usf.com.br/ está hospedada no servidor com o endereço IP: 207.248.87.50
+A URL http://www.unaerp.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPSConnectionPool(host='www.unaerp.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+A URL http://www.usc.br/ está hospedada no servidor com o endereço IP: 144.22.135.177
+A URL http://www.unilins.edu.br/ está hospedada no servidor com o endereço IP: 34.203.182.226
+A URL http://www.unisanta.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPSConnectionPool(host='www.unisanta.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+A URL http://www.baraodemaua.br/index.php está hospedada no servidor com o endereço IP: 187.32.91.8
+A URL http://www3.utfpr.edu.br/a-instituicao está hospedada no servidor com o endereço IP: 200.19.73.48
+A URL http://www.uel.br/ está hospedada no servidor com o endereço IP: 189.90.65.155
+A URL http://www.uem.br/ está hospedada no servidor com o endereço IP: 186.233.154.103
+A URL http://www.uepg.br/ está hospedada no servidor com o endereço IP: 177.101.17.22
+A URL http://www.ufpr.br/ está hospedada no servidor com o endereço IP: 200.17.209.3
+A URL http://www.unioeste.br/ está hospedada no servidor com o endereço IP: 131.255.84.123
+A URL http://www.unicentro.br/ não pôde ser resolvida para um endereço IP
+Erro: No host specified.
+A URL http://www.ufcspa.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPSConnectionPool(host='www.ufcspa.edu.br', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:997)')))
+A URL http://www.furg.br/ está hospedada no servidor com o endereço IP: 200.19.254.110
+A URL http://www.pucrs.br/ está hospedada no servidor com o endereço IP: 104.18.21.134
+A URL http://www.ucpel.tche.br/ está hospedada no servidor com o endereço IP: 200.17.170.105
+A URL http://www.ucs.br/ está hospedada no servidor com o endereço IP: 200.160.128.48
+A URL http://www.ufpel.tche.br/ está hospedada no servidor com o endereço IP: 200.17.160.80
+A URL http://www.ufrgs.br/ está hospedada no servidor com o endereço IP: 143.54.2.20
+A URL http://www.ufsm.br/ está hospedada no servidor com o endereço IP: 200.18.47.118
+A URL http://www.upf.br/ está hospedada no servidor com o endereço IP: 20.157.222.42
+A URL http://www.unijui.edu.br/ está hospedada no servidor com o endereço IP: 200.17.87.13
+A URL http://www.unipampa.edu.br/portal/ está hospedada no servidor com o endereço IP: 200.132.146.52
+A URL http://www.univates.br/ está hospedada no servidor com o endereço IP: 177.44.240.52
+A URL https://www.imed.edu.br/Home está hospedada no servidor com o endereço IP: 76.76.21.241
+A URL http://www.udesc.br/ está hospedada no servidor com o endereço IP: 179.97.105.65
+A URL http://www.ufsc.br/ está hospedada no servidor com o endereço IP: 150.162.2.10
+A URL http://www.unoescjba.edu.br/ não pôde ser resolvida para um endereço IP
+Erro: HTTPConnectionPool(host='www.unoescjba.edu.br', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f65e28f4820>: Failed to establish a new connection: [Errno 113] No route to host'))
+A URL http://www.univali.br/ está hospedada no servidor com o endereço IP: 200.169.52.190
+A URL http://www.furb.br/ está hospedada no servidor com o endereço IP: 201.54.207.9
+A URL http://www.unesc.net/portal/ está hospedada no servidor com o endereço IP: 200.18.15.19
+A URL http://uffs.edu.br/index.php está hospedada no servidor com o endereço IP: 200.135.49.107
+A URL http://www.unesc.net/portal/ está hospedada no servidor com o endereço IP: 200.18.15.19

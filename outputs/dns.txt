@@ -1,0 +1,440 @@
+URL: www.unb.br
+Server: nginx
+Location: https://unb.br/
+
+URL: www.udf.edu.br
+
+Location: https://www.udf.edu.br:443/
+
+URL: www.ueg.br
+Server: BigIP
+Location: https://www.ueg.br/
+
+URL: www.ucg.br
+
+
+
+URL: www.ufg.br
+Server: nginx
+Location: https://www.ufg.br/
+
+URL: www.ifg.edu.br
+Server: Apache/2.4.10 (Debian)
+
+
+URL: www.ufms.br
+Server: Apache
+Location: https://www.ufms.br/
+
+URL: www.ufgd.edu.br
+Server: nginx/1.24.0
+Location: https://portal.ufgd.edu.br/
+
+URL: www.ufmt.br
+Server: nginx
+Location: https://www.ufmt.br/
+
+URL: www.novoportal.unemat.br
+Server: nginx/1.14.2
+Location: https://unemat.br
+
+URL: www.ufal.br
+Server: nginx/1.20.2
+Location: https://ufal.br/
+
+URL: www.uneal.edu.br
+Server: Apache/2.4.38 (Debian)
+
+
+URL: www.ufba.br
+Server: Apache
+
+
+URL: www.uneb.br
+Server: Apache/2.4.55 (Unix) OpenSSL/1.0.2k-fips
+Location: http://portal.uneb.br
+
+URL: www.portal.ifba.edu.br
+
+
+
+URL: www.ufob.edu.br
+Server: awselb/2.0
+
+
+URL: www.fainor.com.br
+Server: Apache
+
+
+URL: www.uece.br
+Server: Apache
+Location: https://www.uece.br/
+
+URL: www.ufc.br
+Server: Apache/2.4.10 (Debian)
+Location: https://www.ufc.br/
+
+URL: www.ifce.edu.br
+Server: nginx
+Location: https://ifce.edu.br/
+
+URL: www.ufca.edu.br
+Server: Apache/2.4.29
+Location: https://www.ufca.edu.br/
+
+URL: www.ufma.br
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
+Location: https://portalpadrao.ufma.br
+
+URL: portal.ifma.edu.br
+Server: cloudflare
+Location: https://portal.ifma.edu.br
+
+URL: www.ufpb.br
+Server: nginx
+Location: https://www.ufpb.br/
+
+URL: www.ufcg.edu.br
+Server: Apache/2.4.6 (CentOS) PHP/5.4.16
+Location: https://portal.ufcg.edu.br
+
+URL: www.ifpb.edu.br
+Server: nginx
+Location: https://www.ifpb.edu.br/
+
+URL: www.ufpe.br
+Server: Apache
+Location: https://www.ufpe.br/
+
+URL: www.ufrpe.br
+Server: Apache/2.4.7 (Ubuntu)
+Location: https://www.ufrpe.br/
+
+URL: www.unicap.br
+Server: Apache
+
+
+URL: www.ufrn.br
+Server: nginx/1.12.2
+Location: https://ufrn.br/
+
+URL: www2.ufersa.edu.br
+Server: nginx
+Location: https://ufersa.edu.br/
+
+URL: www.ufs.br
+Server: nginx/1.14.2
+Location: https://www.ufs.br/
+
+URL: www.ufpi.br
+Server: nginx/1.14.2
+Location: https://ufpi.br/
+
+URL: portal.ufam.edu.br
+
+
+
+URL: www.ufpa.br
+Server: nginx
+Location: https://portal.ufpa.br/
+
+URL: ufrr.br
+Server: Apache
+Location: https://ufrr.br/
+
+URL: www.ufac.br
+Server: nginx
+Location: https://www.ufac.br/
+
+URL: www.unama.br
+
+Location: https://www.unama.br/
+
+URL: www.uft.edu.br
+Server: nginx
+Location: https://ww2.uft.edu.br/
+
+URL: www.portal.ufra.edu.br
+Server: nginx/1.20.1
+Location: https://aaredirect.ufra.edu.br/
+
+URL: www.unifap.br
+Server: Apache/2.4.25 (Debian)
+
+
+URL: www.ufes.br
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips
+Location: https://www.ufes.br/
+
+URL: www.unifei.edu.br
+
+Location: https://www.unifei.edu.br/
+
+URL: www.ufla.br
+Server: Apache/2.4.41 (Ubuntu)
+Location: https://www.ufla.br/
+
+URL: www.uftm.edu.br
+Server: Apache
+Location: https://www.uftm.edu.br/
+
+URL: www.ufvjm.edu.br
+Server: Apache
+
+
+URL: www.pucminas.br
+Server: Microsoft-IIS/8.5
+Location: https://www.pucminas.br/
+
+URL: www.ufjf.br
+Server: Apache/2.4.10 (Debian)
+Location: https://www.ufjf.br/
+
+URL: www.ufmg.br
+Server: Apache
+Location: https://www.ufmg.br/
+
+URL: www.ufop.br
+Server: CentOS WebPanel: Protected by Mod Security
+Location: https://www.ufop.br/
+
+URL: www.ufv.br
+Server: nginx
+Location: https://www.ufv.br/
+
+URL: www.inatel.br
+Server: Apache/2.4.52
+Location: https://www.inatel.br/
+
+URL: www.ufsj.edu.br
+Server: Apache/2.4.25 (Debian)
+Location: https://ufsj.edu.br/
+
+URL: www.ufu.br
+Server: Apache
+Location: https://ufu.br/
+
+URL: www.cefetmg.br
+Server: Apache
+Location: https://www.cefetmg.br/
+
+URL: www.metodistademinas.edu.br
+Server: Apache
+
+
+URL: www.iftm.edu.br
+Server: Apache/2.4.34 (Ubuntu)
+Location: https://iftm.edu.br/
+
+URL: www.cefet-rj.br
+Server: nginx
+
+
+URL: www.puc-rio.br
+Server: Microsoft-IIS/8.5
+Location: https://www.puc-rio.br/index.html
+
+URL: www.ucp.br
+
+
+
+URL: www.uff.br
+
+Location: https://www.uff.br/
+
+URL: www.ufrj.br
+Server: nginx
+Location: https://ufrj.br/
+
+URL: www.ufrrj.br
+Server: Apache
+Location: portal/modulo/home/index.php
+
+URL: www.unirio.br
+Server: nginx/1.14.2
+
+
+URL: www.uerj.br
+Server: Apache/2.4.6 (CentOS)
+Location: https://www.uerj.br/
+
+URL: www.epm.br
+Server: nginx/1.4.6 (Ubuntu)
+Location: https://sp.unifesp.br/epm/
+
+URL: www.fesp.br
+
+
+
+URL: www.metodista.br
+Server: Apache
+
+
+URL: www.pucsp.br
+Server: nginx
+Location: https://www.pucsp.br/
+
+URL: www.puccamp.br
+Server: Apache
+Location: https://www.puc-campinas.edu.br/
+
+URL: www.ufscar.br
+Server: Apache
+Location: https://www.ufscar.br/
+
+URL: www.scamilo.edu.br
+
+
+
+URL: www.unesp.br
+Server: Apache/2.4.41 (Ubuntu)
+Location: https://www.unesp.br/
+
+URL: www.unicamp.br
+Server: Apache/2.4.57 (Unix) OpenSSL/1.1.1t
+Location: https://www.unicamp.br/
+
+URL: www.unimep.br
+Server: Apache/2.4.10 (Debian)
+Location: http://www.unimep.edu.br
+
+URL: www.usp.br
+
+Location: https://www5.usp.br
+
+URL: www.usf.com.br
+Server: Apache/2.4.6 (CentOS)
+
+
+URL: www.unaerp.br
+
+Location: https://www.unaerp.br:443/
+
+URL: www.usc.br
+Server: nginx/1.20.1
+Location: http://usc.br/
+
+URL: www.unilins.edu.br
+Server: Apache/2.4.52 (Unix) OpenSSL/1.1.1n
+Location: https://www.unilins.edu.br/
+
+URL: www.unisanta.br
+Server: nginx/1.18.0 (Ubuntu)
+Location: https://www.unisanta.br/
+
+URL: www.baraodemaua.br
+Server: nginx/1.20.1
+Location: https://www.baraodemaua.br/
+
+URL: www3.utfpr.edu.br
+Server: Apache/2.4.10 (Debian)
+
+
+URL: www.uel.br
+Server: nginx/1.20.1
+Location: https://portal.uel.br/home/
+
+URL: www.uem.br
+Server: nginx/1.23.2
+
+
+URL: www.uepg.br
+Server: nginx
+Location: https://www.uepg.br/
+
+URL: www.ufpr.br
+Server: nginx/1.19.9
+Location: https://ufpr.br/
+
+URL: www.unioeste.br
+Server: Apache/2.4.29 (Ubuntu)
+Location: https://www.unioeste.br/
+
+URL: www.unicentro.br
+Server: Microsoft-IIS/10.0
+Location: https:www.unicentro.br/
+
+URL: www.ufcspa.edu.br
+Server: Apache/2.4.41 (Unix) OpenSSL/1.1.1d PHP/7.3.11 mod_perl/2.0.8-dev Perl/v5.16.3
+Location: https://www.ufcspa.edu.br/
+
+URL: www.furg.br
+Server: Apache
+Location: https://www.furg.br/
+
+URL: www.pucrs.br
+Server: azion webserver
+Location: https://www.pucrs.br/
+
+URL: www.ucpel.tche.br
+Server: nginx
+Location: https://ucpel.edu.br
+
+URL: www.ucs.br
+Server: nginx
+Location: https://www.ucs.br/
+
+URL: www.ufpel.tche.br
+Server: Apache
+Location: http://portal.ufpel.edu.br
+
+URL: www.ufrgs.br
+Server: nginx
+Location: http://www.ufrgs.br/ufrgs/inicial
+
+URL: www.ufsm.br
+
+
+
+URL: www.upf.br
+Server: Microsoft-IIS/10.0
+Location: https://www.upf.br/
+
+URL: www.unijui.edu.br
+Server: Apache
+Location: https://www.unijui.edu.br/
+
+URL: www.unipampa.edu.br
+Server: Apache/2.4.41 (Ubuntu)
+Location: http://www.unipampa.edu.br/portal
+
+URL: www.univates.br
+Server: nginx
+Location: https://www.univates.br/
+
+URL: www.imed.edu.br
+Server: cloudflare
+Location: https://www.atitus.edu.br
+
+URL: www.udesc.br
+
+
+
+URL: www.ufsc.br
+Server: nginx
+Location: https://www.ufsc.br/
+
+URL: www.unoescjba.edu.br
+
+
+
+URL: www.univali.br
+Server: nginx/1.20.1
+Location: https://www.univali.br/
+
+URL: www.furb.br
+Server: nginx
+
+
+URL: www.unesc.net
+Server: nginx/1.18.0 (Ubuntu)
+Location: https://www.unesc.net/
+
+URL: uffs.edu.br
+Server: Apache
+Location: http://www.uffs.edu.br/
+
+URL: www.unesc.net
+Server: nginx/1.18.0 (Ubuntu)
+Location: https://www.unesc.net/
+
